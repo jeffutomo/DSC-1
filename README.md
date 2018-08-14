@@ -1,2 +1,4 @@
 # DSC-1
-Belajar GitHub
+Belajar
+
+Fakultas Sains dan Teknologi 
